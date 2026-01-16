@@ -1,4 +1,4 @@
-rojet DevSecOps : Déploiement Automatisé d'une API Node.js sur AWS
+Projet DevSecOps : Déploiement Automatisé d'une API Node.js sur AWS
 
 Ce projet met en œuvre une chaîne **CI/CD complète et sécurisée** (DevSecOps) pour déployer une application Node.js conteneurisée sur une infrastructure AWS provisionnée par code (IaC).
 
