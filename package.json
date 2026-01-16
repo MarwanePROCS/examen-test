@@ -1,3 +1,4 @@
+
 {
   "name": "node-api",
   "main": "server.js",
@@ -7,8 +8,9 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "echo \"Pas de tests pour le moment\" && exit 0"
-},
+    "test": "echo \"Pas de tests pour le moment\" && exit 0",
+    "lint": "echo \"Linting code...\" && exit 0"
+  },
   "author": "Chris Sevilleja <scotch.io>",
   "license": "MIT",
   "dependencies": {
